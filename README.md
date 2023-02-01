@@ -1,8 +1,8 @@
 # NoBuildingZone
 
-Adds "no building zone", **but units can walk on it!**
+Adds "no building zone", **but units can walk on it.**
 
-Добавляет "зону запрета строительсва", **но юниты могут ходить по ней!**
+Добавляет "зону запрета строительсва", **но юниты могут ходить по ней.**
 ----
 ### Languages: 
            Russian
